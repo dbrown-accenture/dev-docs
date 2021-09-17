@@ -1,0 +1,26 @@
+{
+  "name": "dev-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "sh build.sh",
+    "start": "docsify serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbrown-accenture/dev-docs.git"
+  },
+  "author": "Dakota Brown",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dbrown-accenture/dev-docs/issues"
+  },
+  "homepage": "https://github.com/dbrown-accenture/dev-docs#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "docsify": "^4.12.1",
+    "mermaid": "^8.12.1"
+  }
+}

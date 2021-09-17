@@ -1,0 +1,6 @@
+* [Home](/)
+* [Agile :: Jira.md](docs/01_agile/01_jira.md)
+* [Github :: Ssh-client-setup.md](docs/02_github/01_ssh-client-setup.md)
+* [Github :: Repositories.md](docs/02_github/02_repositories.md)
+* [Github :: Branching.md](docs/02_github/03_branching.md)
+* [Github :: Pull-requests.md](docs/02_github/04_pull-requests.md)
